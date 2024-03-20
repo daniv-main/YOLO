@@ -1,2 +1,2 @@
 # YOLO
-YOLO projects
+YOLOv8 detection, counting projects
